@@ -45,6 +45,8 @@ public class Program {
         }
         }
 
+        //Vi overvejer at lave et loop for hver type brik, så vi generere det antal vi skal bruge, så samme princip som kongen
+
 
     }
 }
